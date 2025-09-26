@@ -21,11 +21,11 @@ This app is especially useful for **GATE aspirants**, as it helps them track per
 
 ### ☀️ Light Mode
 
-![Light Mode](/light-mode.png)
+![Light Mode](./public/light-mode.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode](/dark-mode.png)
+![Dark Mode](./public/dark-mode.png)
 
 ## 🛠 Tech Stack
 
