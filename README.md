@@ -61,7 +61,6 @@ This app is especially useful for **GATE aspirants**, as it helps them track per
 ├─ index.html
 ├─ package-lock.json
 ├─ README.md
-├─ requirements.txt
 ├─ package.json
 └─ vite.config.js
 ```
@@ -81,19 +80,13 @@ This app is especially useful for **GATE aspirants**, as it helps them track per
    npm install
    ```
 
-3. **Run the development server:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run:**
+3. **Run:**
 
    ```bash
    npm run dev
    ```
 
-5. **Open your browser at `http://localhost:5173/` (default Vite port)**
+4. **Open your browser at `http://localhost:5173/` (default Vite port)**
 
 ## 📜 License
 
