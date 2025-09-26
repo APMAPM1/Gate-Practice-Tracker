@@ -2,7 +2,6 @@ import React from 'react';
 import { AppBar, Toolbar, Typography, Switch } from '@mui/material';
 import { LightMode, DarkMode } from '@mui/icons-material';
 
-
 export default function Header({ dark, setDark }) {
     return (
         <AppBar position="static">

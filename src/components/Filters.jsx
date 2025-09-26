@@ -1,7 +1,6 @@
 import React from 'react';
 import { Box, TextField, MenuItem, Grid } from '@mui/material';
 
-
 export default function Filters({ subjects = [], filterSubject, setFilterSubject, filterType, setFilterType, searchNote, setSearchNote }) {
     return (
         <Box sx={{ p: 2 }}>

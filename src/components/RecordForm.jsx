@@ -40,7 +40,6 @@ export default function RecordForm({ onSave, editRecord, subjects = [] }) {
         });
     }
 
-
     return (
         <Box component="form" onSubmit={handleSubmit} sx={{ p: 2 }}>
             <Grid container spacing={2}>
